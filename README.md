@@ -3,5 +3,7 @@ extended_amazon_products.csv file open when Manufacturer value and ASIN Value is
 
 Firstly install below package
 pip install requests beautifulsoup4
+
 Then first install getData.py then run getProductInfo.py
-then change the path in both py files
+
+Then change the path in both py files
